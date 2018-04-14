@@ -1,0 +1,10 @@
+C:\Users\Renato\Google Drive\programacao\acoes\Acoes\bin\Debug\Acoes.exe.config
+C:\Users\Renato\Google Drive\programacao\acoes\Acoes\bin\Debug\Acoes.exe
+C:\Users\Renato\Google Drive\programacao\acoes\Acoes\bin\Debug\Acoes.pdb
+C:\Users\Renato\Google Drive\programacao\acoes\Acoes\obj\Debug\Acoes.csprojResolveAssemblyReference.cache
+C:\Users\Renato\Google Drive\programacao\acoes\Acoes\obj\Debug\Acoes.Form1.resources
+C:\Users\Renato\Google Drive\programacao\acoes\Acoes\obj\Debug\Acoes.Properties.Resources.resources
+C:\Users\Renato\Google Drive\programacao\acoes\Acoes\obj\Debug\Acoes.csproj.GenerateResource.Cache
+C:\Users\Renato\Google Drive\programacao\acoes\Acoes\obj\Debug\Acoes.csproj.CoreCompileInputs.cache
+C:\Users\Renato\Google Drive\programacao\acoes\Acoes\obj\Debug\Acoes.exe
+C:\Users\Renato\Google Drive\programacao\acoes\Acoes\obj\Debug\Acoes.pdb

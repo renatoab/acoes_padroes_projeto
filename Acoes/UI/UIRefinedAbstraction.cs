@@ -1,0 +1,33 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Acoes
+{
+    class UIRefinedAbstraction : UIAbstraction
+    {
+
+        public override void OpenFile()
+        {
+            implementor.OpenFile();
+        }
+
+        public override void ShowResults()
+        {
+            implementor.ShowResults();
+        }
+
+        public override void RestoreLastResult()
+        {
+            implementor.RestoreLastResult();
+        }
+
+        public ResultsMemento SaveMemento(Results results)
+        {
+            return implementor.SaveMemento(results);
+        }
+
+    }
+}

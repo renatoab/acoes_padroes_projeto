@@ -1,0 +1,20 @@
+O programa desenvolvido busca processar dados de histórico de operações com ações, para obter informações para o imposto de renda. A corretora exibe o extrato de todas as operações, mas só através de um serviço pago ela informa o valor médio de compra de cada ação, e essa informação é necessária para o imposto de renda. A média não é uma média ponderada simples, pois depende da ordem em que são feitas as operações de compra e venda, daí a ideia de fazer um programa para isso.
+O programa precisa dos seguintes recursos:
+1) Precisa ter 2 possibilidades de interface com o usuário: uma tela Console e uma janela do tipo Windows Forms, de modo que as implementações das funcionalidades das duas interfaces fiquem separadas de uma abstração comum entre elas.
+2) O programa processa um arquivo de texto com os dados de extrato, e esse arquivo funciona como um banco de dados que, quando carregado em memória, gera um objeto que não deve ser instanciado mais de uma vez, para evitar inconsistências nas informações buscadas nele.
+3) O programa deve ter a possibilidade de buscar os dados e processar para todas as ações, ou apenas para as ações de uma empresa específica. E, no modo Windows Forms, quando se faz uma busca, deve haver a necessidade de restaurar os resultados da busca anterior.
+
+Aplicação dos padrões de projeto
+Padrão Bridge:
+O padrão brigde...
+No programa, há duas possibilidades de interface com o usuário: uma tela Console e uma janela do tipo Windows Forms, de modo que as implementações das duas (classe UIConsole e classe UIWindows, que implementam uma classe abstrata UIImplementor) e fiquem separadas da abstração (classe UIAbstraction)
+
+
+
+Memento:
+
+
+
+Singleton:
+
+
